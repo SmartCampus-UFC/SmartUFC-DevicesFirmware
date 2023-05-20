@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For SmartUFCManager
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SmartUFCManager	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setup	KEYWORD2
+beginLoop	KEYWORD2
+endLoop	KEYWORD2
+initSerial KEYWORD2
+initWiFi	KEYWORD2
+initConfig	KEYWORD2
+httpRequest KEYWORD2
+reconnect	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
+
